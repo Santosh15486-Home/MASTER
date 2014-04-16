@@ -6,7 +6,11 @@ public class GitTest {
 		System.out.println("CM...!");
 		System.out.println("Amit...!");
 		System.out.println("No Conflicts....");
+<<<<<<< HEAD
 		
 		System.out.println("Chetan...........!");
+=======
+		System.out.println("Chetan dogra");
+>>>>>>> refs/remotes/origin/master
 	}
 }
