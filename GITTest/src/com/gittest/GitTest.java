@@ -12,6 +12,7 @@ public class GitTest {
 		System.out.println("Praful kuthjay...?");
 		System.out.println("Ala ka to gharun");
 		System.out.println("Ghari gelay.. ");
+		System.out.println("hi");
 		//new Test1().say();
 	}
 }
