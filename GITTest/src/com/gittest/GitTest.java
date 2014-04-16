@@ -15,5 +15,16 @@ public class GitTest {
 		System.out.println("Ghari gelay.. ");
 		System.out.println("12345678+9");
 		//new Test1().say();
+		System.out.println("Santosh...");
+		System.out.println("CM...!");
+		System.out.println("Amit...!");
+		System.out.println("No Conflicts....");
+		System.out.println("Ghe..");
+		System.out.println("want conflictssss...!");
+		
+		System.out.println("Chetan...........!");
+		System.out.println("Chetan dogra");
+		
+		System.out.println("Amit Chakravarti....!");
 	}
 }
