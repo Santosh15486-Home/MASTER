@@ -7,6 +7,7 @@ public class GitTest {
 		System.out.println("Rajendra Khaire...!");
 		System.out.println("India !!! Please vote");
 		System.out.println("Santosh");
+		System.out.println("Ab ki baar Modi Sarkar!!!");
 		//new Test1().say();
 	}
 }
