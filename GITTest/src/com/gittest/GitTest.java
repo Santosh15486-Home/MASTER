@@ -9,9 +9,8 @@ public class GitTest {
 		System.out.println("Santosh");
 		System.out.println("Chetan Dong kabhi wrong nahi hota.. ha ha ha ha ha..");
 		System.out.println("Ab ki baar Modi Sarkar!!!");
-		
-		
 		System.out.println("Praful kuthjay...?");
+		System.out.println("Ghari gelay.. ");
 		//new Test1().say();
 	}
 }
