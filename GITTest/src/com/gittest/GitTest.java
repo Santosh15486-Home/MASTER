@@ -11,8 +11,8 @@ public class GitTest {
 		System.out.println("Ab ki baar Modi Sarkar!!!");
 		System.out.println("Praful kuthjay...?");
 		System.out.println("Ala ka to gharun");
-		System.out.println("Ghari gelay.. ");
 		System.out.println("hi");
+		System.out.println("Ghari gelay.. ");
 		//new Test1().say();
 	}
 }
